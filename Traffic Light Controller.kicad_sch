@@ -3414,7 +3414,7 @@
 		(uuid "2f45879c-943b-4510-8023-bbdadf1e057c")
 	)
 	(rectangle
-		(start 190.246 35.56)
+		(start 190.246 34.544)
 		(end 279.146 147.574)
 		(stroke
 			(width 0)
@@ -3687,7 +3687,7 @@
 	)
 	(text "CONTROL LOGIC"
 		(exclude_from_sim no)
-		(at 198.12 34.544 0)
+		(at 198.12 32.766 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3697,9 +3697,9 @@
 		)
 		(uuid "63ca4f47-4f89-4b8f-8395-beee402148ab")
 	)
-	(text "ENABLE"
+	(text "EMERGENCY OVERRIDE"
 		(exclude_from_sim no)
-		(at 195.834 76.454 0)
+		(at 202.438 76.2 0)
 		(effects
 			(font
 				(size 1.27 1.27)
