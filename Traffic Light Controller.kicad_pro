@@ -556,7 +556,6 @@
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.381,
-        "tuning_profile": "",
         "via_diameter": 0.889,
         "via_drill": 0.381,
         "wire_width": 6
@@ -572,13 +571,12 @@
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.508,
-        "tuning_profile": "",
         "via_diameter": 1.016,
         "via_drill": 0.508
       }
     ],
     "meta": {
-      "version": 5
+      "version": 4
     },
     "net_colors": null,
     "netclass_assignments": null,
@@ -739,7 +737,7 @@
   "sheets": [
     [
       "63a2e554-c001-479c-b78e-ec58c7bbcb27",
-      "Traffic Light Controller"
+      "Root"
     ]
   ],
   "text_variables": {},
